@@ -1,11 +1,16 @@
 _repo: Gettysburg-National-Military-Park-Pennsylvania-National-Park-Service-Historical-Handbook-Seri__56209
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56209-h/images/cover.jpg
 creator:
   author:
     agent_name: Tilberg, Frederick
     gutenberg_agent_id: '48323'
     url: http://www.gutenberg.org/2009/agents/48323
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56209#Gettysburg-National-Military-Park-Pennsylvania-National-Park-Service-Historical-Handbook-Seri_
 gutenberg_issued: '2017-12-20'
 gutenberg_type: Text
 identifiers:
